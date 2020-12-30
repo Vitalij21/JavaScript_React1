@@ -32,7 +32,7 @@
 // git status
 // git add -A
 // git commit -a -m"текст коммита"
-// git push
+// git push (если после этой команды появляются ошибки, то сначала - git pull, после - git push)
 // ****папка home
 // git pull
 
